@@ -3,7 +3,7 @@
 ## End to end project to predict electricity consumption of a building
 The purpose of this project is to work with time-series data generated from smart IoT devices, Analyze the weather influence on electricity consumption, and apply a regression model using Scikit-learn to predict the electricity consumption of a building.
 
-
+![alt text](https://github.com/Robinrob92/My_Data_Project/blob/main/Screenshot%202021-06-20%20at%2009.48.45.png)
 
 ## Methods Used
 K-meansRegressor, Machine Learning, Data Visualization, Silhouette optimisation
