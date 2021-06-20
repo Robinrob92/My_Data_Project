@@ -9,7 +9,7 @@ The purpose of this project is to work with time-series data generated from smar
 K-meansRegressor, Machine Learning, Data Visualization, Silhouette optimisation
 
 ## Technologies
-Python, Beautiful Soup, Geopy, SkLearn, Folium,  Matplotlib, Pandas, jupyter, Numpy, Foursquare API
+Python, SkLearn, Matplotlib, Pandas, jupyter, Numpy
 
 
 ## End to end Neighborhood CLustering of Huston
