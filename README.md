@@ -1,5 +1,17 @@
 # My_Data_Project
 
+## End to end project to predict electricity consumption of a building
+The purpose of this project is to work with time-series data generated from smart IoT devices, Analyze the weather influence on electricity consumption, and apply a regression model using Scikit-learn to predict the electricity consumption of a building.
+
+
+
+## Methods Used
+K-meansRegressor, Machine Learning, Data Visualization, Silhouette optimisation
+
+## Technologies
+Python, Beautiful Soup, Geopy, SkLearn, Folium,  Matplotlib, Pandas, jupyter, Numpy, Foursquare API
+
+
 ## End to end Neighborhood CLustering of Huston
 
 ## Project Objective
