@@ -6,7 +6,7 @@
 The objective of this project is to use Foursquare location data and regional clustering of venue information to determine which neighborhoods are 'similar' in term of venues. This project is aimed towards real estate agents or company or household who desire to move to another neighborhood. The analysis will provide vital information that can be used by the target audience about the neighborhood.
 
 
-![alt text](https://github.com/Robinrob92/My_Data_Project/blob/main/Screenshot%202021-06-20%20at%2009.27.41.png)
+![alt text](https://github.com/Robinrob92/My_Data_Project/blob/main/Picture%201.png)
 
 ## Methods Used
 WebScrapping, K-means, Machine Learning, Data Visualization, Silhouette optimisation
