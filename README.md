@@ -7,6 +7,8 @@
 * Find insights on what keep employees
 * Find insights on what makes employees leave
 
+![alt text](https://github.com/Robinrob92/My_Data_Project/blob/main/Screenshot%202021-06-20%20at%2009.09.27.png)
+
 ## Methods Used
 Statistics, Machine Learning, Data Visualization,Predictive Modeling, Logistic Regression, Data Cleansing,Random Forest, Deep Learning
 
